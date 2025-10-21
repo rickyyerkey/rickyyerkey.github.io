@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Ricky's Personal Website
 description: I am a third-year computer science student at Rochester Institute of Technology.
 logo: /business_man.jpg
+show_downloads: true
